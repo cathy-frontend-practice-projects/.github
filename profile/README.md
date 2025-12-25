@@ -16,28 +16,40 @@
 
 ## 🌸 Projects
 
-### 🌼 **Flexbox Crash Course**
-Practicing clean layout, spacing, and alignment using Flexbox.  
-📎 Repo: https://github.com/cathy-frontend-practice-projects/flexbox-crash-course
+### 🧩 Testimonials Grid Section
+**Focus:** CSS Grid · Responsive Layout  
+**What I practiced:**
+- Grid template areas
+- Content alignment & spacing
+- Visual balance in card layouts  
+
+**Tech:** HTML · CSS Grid  
+🔗 Repo: https://github.com/cathy-frontend-practice-projects/testimonials-grid-section
 
 ---
 
-### 🍑 **Acme Web Design**
-A simple and aesthetically clean landing page built with HTML & CSS.  
-📎 Repo: https://github.com/cathy-frontend-practice-projects/acme-web-design
+### 🌼 Flexbox Crash Course
+**Focus:** Flexbox fundamentals  
+**What I practiced:**
+- Flex container & items
+- Alignment and spacing
+- Clean layout structure  
+
+**Tech:** HTML · CSS  
+🔗 Repo: https://github.com/cathy-frontend-practice-projects/flexbox-crash-course
 
 ---
 
-## 🌿 Coming Soon
-More small practice projects:
+### 🍑 Acme Web Design
+**Focus:** Static landing page design  
+**What I practiced:**
+- Page structure with HTML
+- Visual consistency with CSS
+- Simple and clean layout  
 
-- Responsive layouts  
-- Card components  
-- Cute landing pages  
-- Grid layout practice  
-- Mini UI components  
+**Tech:** HTML · CSS  
+🔗 Repo: https://github.com/cathy-frontend-practice-projects/acme-web-design
 
-Every project is a quiet step forward 🌙✨
 
 ---
 
@@ -47,9 +59,9 @@ Every project is a quiet step forward 🌙✨
 |-------|--------|
 | HTML Basics | 🌟 Completed |
 | CSS Basics | 🌟 Completed |
-| Flexbox | 🍃 Practicing |
+| Flexbox | 🌟 Practiced |
 | Responsive Design | 🌙 In progress |
-| CSS Grid | ⏳ Coming soon |
+| CSS Grid | 🍃 Practicing |
 | JS Basics | ⏳ Coming soon |
 
 ---
