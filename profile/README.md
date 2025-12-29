@@ -16,6 +16,21 @@
 
 ## 🌸 Projects
 
+### 🌿 Growth App – SaaS Landing Page
+**Focus:** Complete SaaS landing page · Responsive UI · JS Interactivity  
+**What I practiced:**
+- Semantic HTML structure for real-world landing pages
+- CSS custom properties for consistent theming
+- Mobile-first responsive design
+- Flexbox-based layouts for sections & cards
+- Interactive components (FAQ accordion, hamburger menu)
+- UI consistency across hero, pricing, testimonials, and footer  
+
+**Tech:** HTML · CSS · JavaScript  
+🔗 Repo: https://github.com/cathy-frontend-practice-projects/saas-website
+
+---
+
 ### 🧩 Testimonials Grid Section
 **Focus:** CSS Grid · Responsive Layout  
 **What I practiced:**
@@ -58,11 +73,18 @@
 | Topic | Status |
 |-------|--------|
 | HTML Basics | 🌟 Completed |
+| Semantic HTML | 🌟 Practiced |
 | CSS Basics | 🌟 Completed |
-| Flexbox | 🌟 Practiced |
-| Responsive Design | 🌙 In progress |
+| Flexbox | 🌟 Confident |
+| Responsive Design | 🌟 Practiced |
 | CSS Grid | 🍃 Practicing |
-| JS Basics | ⏳ Coming soon |
+| CSS Variables | 🌿 Practiced |
+| UI Layout Design | 🌿 Practiced |
+| JavaScript Basics | 🌙 Practicing |
+| DOM Manipulation | 🌙 Practicing |
+| Interactive Components | 🌙 Practicing |
+| Accessibility (a11y) | ⏳ Planned |
+
 
 ---
 
